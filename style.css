@@ -1,0 +1,24 @@
+
+#myInput{
+
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: 0.5rem;
+    padding: 0.5rem;
+    width: 50%;
+    font-size: 16px;
+    border: 1px solid;
+    color: black;
+    border-radius: 10px;
+    
+    
+}
+
+#mytable{
+    margin: 10px;
+    width: 100%;
+    border: 1px solid;
+    font-size: 18px;
+    
+}
